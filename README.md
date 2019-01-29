@@ -53,7 +53,7 @@ export default {
 
 ##result
 
-![run-result.gif](https://upload-images.jianshu.io/upload_images/4645892-e75a692211acc1aa.gif?imageMogr2/auto-orient/strip)
+![run-result.gif](./examples.gif)
 
 ## Attributes(属性)
 

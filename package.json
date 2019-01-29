@@ -1,7 +1,7 @@
 {
   "name": "peony-circle",
   "description": "A Vue Gradient Progress Circle Component(一个vue的可渐变的进度圆环组件)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "nongshuqiner <ym1185509297@163.com>",
   "license": "MIT",
   "main": "dist/peony-circle.js",
