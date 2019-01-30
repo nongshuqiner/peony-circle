@@ -51,7 +51,7 @@ export default {
 </script>
 ```
 
-##result
+## result
 
 ![run-result.gif](./examples.gif)
 

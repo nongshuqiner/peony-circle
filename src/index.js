@@ -22,7 +22,7 @@ if (typeof window !== 'undefined' && window.Vue) {
 }
 
 export default {
-  version: '1.0.0', // 版本
+  version: '1.0.1', // 版本
   // install
   install,
   // 组件
